@@ -2,7 +2,7 @@
 Django based todo App using python
 Django todoApp, built with django python webframework.  
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Pawan%20Kumar-red)
-
+# Let's have a look at how actually it looks like :-
 ![Screenshot (65)](https://user-images.githubusercontent.com/54316119/100758047-13700c80-3415-11eb-9100-1027a0e5e541.png)
 
 ## Installation
